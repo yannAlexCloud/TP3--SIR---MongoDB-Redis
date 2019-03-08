@@ -5,7 +5,7 @@ Dans le cadre de l'unité d'enseignement système d'informations repartis, nous 
 * Comprendre les différents types de bases nosql
 * Réaliser une application en utilisant une API comme Morphia proche de JPA en se plaçant dans un cadre classique de développement au dessus d’une base orientée document comme Mongo.
 * Comparer avec une base de données clé valeur haute performance comme Redis
-### Limites des bases de données oreintées documents
+# Limites des bases de données oreintées documents
 
 #### Rédondence d'informations
 Le modèle basé sur les documents comporte un document individuel pour chaque objet qu'on veut représenter.
@@ -36,7 +36,7 @@ https://data-flair.training/blogs/advantages-of-mongodb/
 #### Documentation et installation de MongoDB:
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
 
-# Les tyes de dnnées et requetes dans Redis
+# Les tyes de données et requetes dans Redis
 
 Redis permet princialement d'effectuer les meme requetes qu'une base de donnée classique: la consultation,la création, et la suppression.
 Chaque structure de données présentes dans redis a ses commandes pour effecuer ces opérations,et bien d'autres encore.  
