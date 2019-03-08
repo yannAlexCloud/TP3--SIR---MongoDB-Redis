@@ -101,7 +101,7 @@ Sources:
 http://www.barreverte.fr/une-courte-introduction-a-redis/
 
 http://b3d.bdpedia.fr/redis.html
-####Insallation et courte introduction à Redis:
+#### Insallation et courte introduction à Redis:
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04
 
 http://www.barreverte.fr/une-courte-introduction-a-redis/
